@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Cap 1 -  the future is now.md",
+                "file": "Notes/Cap 2  - Aplicando as ações de lógica.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Cap 1 -  the future is now.md",
+                "file": "Notes/Cap 2  - Aplicando as ações de lógica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Cap 1 -  the future is now.md",
+                "file": "Notes/Cap 2  - Aplicando as ações de lógica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Cap 1 -  the future is now.md"
+                "file": "Notes/Cap 2  - Aplicando as ações de lógica.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "651235d25e7d07d4",
   "lastOpenFiles": [
+    "Notes/Cap 2  - Aplicando as ações de lógica.md",
+    "Notes/index.html",
     "Notes/Cap 1 -  the future is now.md",
     "Untitled.md"
   ]
