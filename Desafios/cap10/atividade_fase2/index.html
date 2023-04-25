@@ -9,7 +9,8 @@
 <body>
 
     <script>
-        var nome = prompt("Digite o seu nome completo: ")
+        var nomeDigitado = prompt("Digite o seu nome completo: ")
+        var nome = nomeDigitado.split(' ')[0]
         alert(`${nome}, obrigado por acessar nosso site!`)
     </script>
     
